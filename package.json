@@ -43,5 +43,5 @@
   "devDependencies": {
     "ajv": "^8.17.1"
   },
-  "homepage": "https://zer0p01nt.github.io/movie-recommender"
+  "homepage": "https://zer0p01nt.github.io/movie-recommender/"
 }
